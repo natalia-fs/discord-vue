@@ -71,6 +71,7 @@ export default {
   height: 68px;
 
   input {
+    color: var(--white);
     width: 100%;
     height: 44px;
     padding: 0 10px 0 57px;
