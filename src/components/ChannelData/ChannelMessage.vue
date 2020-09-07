@@ -41,6 +41,11 @@ export default {
   &.has-mention {
     background-color: var(--mention-message);
     border-left: solid 2px var(--mention-detail);
+
+    &:hover{
+      background-color: var(--mention-message);
+      filter: brightness(105%);
+    }
   }
 }
 .avatar {

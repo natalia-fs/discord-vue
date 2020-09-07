@@ -24,7 +24,7 @@ export default {
         justify-content: space-between;
         background-color: var(--secondary);
         padding: 0 11px 0 16px;
-        box-shadow: rgba(0,0,0,.9) 0 1px 0 0;
+        box-shadow: rgba(0,0,0,.6) 0 1px 0 0;
         z-index: 2;
     }
     .title{

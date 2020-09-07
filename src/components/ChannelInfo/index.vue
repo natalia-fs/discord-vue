@@ -25,7 +25,7 @@ export default {
   display: flex;
   align-items: center;
   padding: 0 17px;
-  box-shadow: rgba(0, 0, 0, .9) 0 1px 0 0;
+  box-shadow: rgba(0, 0, 0, .6) 0 1px 0 0;
   z-index: 2;
 }
 .title {
@@ -37,6 +37,7 @@ export default {
 .description {
   color: var(--gray);
   font-size: 15px;
+  cursor: pointer;
 }
 .separator {
   background: var(--primary);

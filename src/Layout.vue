@@ -11,13 +11,13 @@
 </template>
 
 <script>
-import ServerList from './ServerList';
-import ServerName from './ServerName';
-import ChannelList from './ChannelList';
-import UserInfo from './UserInfo';
-import ChannelInfo from './ChannelInfo';
-import ChannelData from './ChannelData';
-import UserList from './UserList';
+import ServerList from './Components/ServerList';
+import ServerName from './Components/ServerName';
+import ChannelList from './Components/ChannelList';
+import UserInfo from './Components/UserInfo';
+import ChannelInfo from './Components/ChannelInfo';
+import ChannelData from './Components/ChannelData';
+import UserList from './Components/UserList';
 
 export default {
   components: {

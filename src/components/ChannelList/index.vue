@@ -51,6 +51,11 @@ export default {
   .category-icon{
     color: var(--symbol);
     cursor: pointer;
+    transition: .2s;
+    
+    &:hover{
+      color: var(--white);
+    }
   }
 }
 </style>
